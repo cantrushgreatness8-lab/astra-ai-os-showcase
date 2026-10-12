@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.624
+This is ASTRA AI OS, presented through its actual JARVIS interface.
+
+00:00:04.624 --> 00:00:07.799
+The home screen connects to one local runtime.
+
+00:00:07.799 --> 00:00:16.220
+Provider selection lives behind explicit policy, while agent work is represented by durable plans, steps, and checkpoints.
+
+00:00:16.220 --> 00:00:22.155
+Tool permission is a separate boundary: a model decision does not authorize an action.
+
+00:00:22.155 --> 00:00:28.298
+These captures use a fresh isolated runtime with no private notes or live provider calls.
+
+00:00:28.298 --> 00:00:35.062
+Seven original contract checks passed; live integrations still require their own acceptance tests.
